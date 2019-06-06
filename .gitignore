@@ -1,0 +1,13 @@
+*.pth
+*.pth.tz
+*.log
+*.pyc
+*.pkl
+*.mat
+*.npy
+*.pth.tar
+results.txt
+checkpoint/
+results/
+venv/
+log/
